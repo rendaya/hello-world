@@ -1,5 +1,5 @@
 # hello-world
-Short description for hello-world
+
 
 Hi humans! 
 
